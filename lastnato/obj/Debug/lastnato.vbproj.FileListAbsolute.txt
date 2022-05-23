@@ -1,0 +1,13 @@
+C:\Users\Kenneth\Desktop\attendance\lastnato\lastnato\bin\Debug\lastnato.exe.config
+C:\Users\Kenneth\Desktop\attendance\lastnato\lastnato\bin\Debug\lastnato.exe
+C:\Users\Kenneth\Desktop\attendance\lastnato\lastnato\bin\Debug\lastnato.pdb
+C:\Users\Kenneth\Desktop\attendance\lastnato\lastnato\bin\Debug\lastnato.xml
+C:\Users\Kenneth\Desktop\attendance\lastnato\lastnato\obj\Debug\lastnato.vbproj.AssemblyReference.cache
+C:\Users\Kenneth\Desktop\attendance\lastnato\lastnato\obj\Debug\lastnato.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Kenneth\Desktop\attendance\lastnato\lastnato\obj\Debug\lastnato.Form1.resources
+C:\Users\Kenneth\Desktop\attendance\lastnato\lastnato\obj\Debug\lastnato.Resources.resources
+C:\Users\Kenneth\Desktop\attendance\lastnato\lastnato\obj\Debug\lastnato.vbproj.GenerateResource.cache
+C:\Users\Kenneth\Desktop\attendance\lastnato\lastnato\obj\Debug\lastnato.vbproj.CoreCompileInputs.cache
+C:\Users\Kenneth\Desktop\attendance\lastnato\lastnato\obj\Debug\lastnato.exe
+C:\Users\Kenneth\Desktop\attendance\lastnato\lastnato\obj\Debug\lastnato.xml
+C:\Users\Kenneth\Desktop\attendance\lastnato\lastnato\obj\Debug\lastnato.pdb
